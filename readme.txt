@@ -130,9 +130,3 @@ AUTONOMOUS_TRUCKS/
 - Password hashing using Werkzeug's security functions
 - Session-based authentication
 - Login required decorator for protected routes
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
