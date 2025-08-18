@@ -27,7 +27,7 @@ app = Flask(__name__)
 app.secret_key = os.urandom(24)  # For session management
 
 # Set Google Maps API key directly on app.config
-app.config['GOOGLE_MAPS_API_KEY'] = 'AIzaSyCGSmL6GxxfD7mr464k6lESahFm0egt-S0'
+app.config['GOOGLE_MAPS_API_KEY'] = 'your-api-key'
 
 # Add a context processor to make the Google Maps API key available in all templates
 @app.context_processor
