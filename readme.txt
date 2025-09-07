@@ -10,7 +10,7 @@ A web-based fleet management system for monitoring, tracking, and managing auton
 - **Service Requests**: Request maintenance and other services for trucks
 - **Alert System**: Receive real-time alerts about truck status and issues
 - **User Authentication**: Secure login and registration system
-- **User Profiles**: Manage user information and preferences
+- **User Profiles**:  Manage user information and preferences
 - **Simulation Tools**: Run simulations to test truck behavior in various scenarios
 - **Reporting**: Generate reports on truck performance and fleet status
 
